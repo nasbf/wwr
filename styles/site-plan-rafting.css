@@ -6,7 +6,7 @@ Fonts are separated by a & */
   @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200&family=Kalam:wght@300&display=swap');
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #6c584c  ;
+  --primary-color: #4e2d0b  ;
   --secondary-color: #adc178 ;
   --accent1-color: #a98467;
   --accent2-color: #dde5b6;
