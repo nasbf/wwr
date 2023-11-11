@@ -212,6 +212,7 @@ footer {
     margin-top: -3%;
 }
 #newhero{
+    
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr;
@@ -238,6 +239,7 @@ footer {
 }
 
 .places_grid{
+    width: 0,auto;
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-content: 0 auto;
