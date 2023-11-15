@@ -279,7 +279,7 @@ footer {
     
 }
 .data{
-    width: 90%;
+    padding: 25px
     grid-column: 1/2;
     margin-top: 50px;
     
