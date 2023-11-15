@@ -279,9 +279,11 @@ footer {
     
 }
 .data{
-    padding: 25px
-    grid-column: 1/2;
-    margin-top: 50px;
+    overflow: hidden;
+    margin-left: 30px;
+    margin-right: 40px;
+    
+    
     
     
 }
@@ -309,6 +311,21 @@ hr{
     height:3px;
 }
 
+.form-title{
+    width: 100%;
+    font-family: "young serif";
+    font-size: 2.2em;
+    font-weight: lighter;
+    color: #faf9f9;
+    text-align: center;
+    
+}
+.form-sentence{
+    font-family: "mooli";
+    font-weight: lighter;
+    font-size: 1.8em;
+    margin-top: -3%;
+}
 form {
     /* Center the form on the page */
     margin: 0 auto;
